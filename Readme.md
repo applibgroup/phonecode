@@ -2,7 +2,7 @@
 ### Library Version - 1.0
 ### Library Release Date - 
 ### Library Overview  
-    Phone Code library provides access to a developer to add this into their own harmony os project, where user will get option to enter his/her nobile number. The main feature includes a list of phone codes of all the coutries from where usercan choose the coutry he/she belongs to and the Mobile code of that coutry will automatically added to the phonenumber field.
+  Phone Code library provides access to a developer to add this into their own harmony os project, where user will get option to enter his/her nobile number. The main feature includes a list of phone codes of all the coutries from where usercan choose the coutry he/she belongs to and the Mobile code of that coutry will automatically added to the phonenumber field.
 ### Github Link - 
 
 ![alt-text-1](./Images/ss%201.png) ![alt-text-2](./Images/ss%202.png)
