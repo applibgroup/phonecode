@@ -1,7 +1,7 @@
 {
   "app": {
     "vendor": "example",
-    "bundleName": "com.example.phone_code_ets",
+    "bundleName": "com.example.phonecodeets",
     "version": {
       "code": 1000000,
       "name": "1.0.0"
