@@ -7,6 +7,13 @@
 ### Library Overview
   Phone Code library provides access to a developer to add this into their own harmony os project, where user will get option to enter his/her nobile number. The main feature includes a list of phone codes of all the coutries from where usercan choose the coutry he/she belongs to and the Mobile code of that coutry will automatically added to the phonenumber field.
 
+### How to use
+1. Click on the ArrowDown button to open up the country list panel
+2. Click on either the country name/flag/code.
+3. The required data will automatically filled up in the desired box
+4. Now enter your mobile number in the input field.
+5. After all the entries click on the continue button for a successful submission. 
+
 ---
 
 ### Library UI overview 
