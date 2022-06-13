@@ -1,16 +1,22 @@
 ## Library Name - Phone Code
+
 ### Library Version - 1.0
+
 ### Library Release Date - 
-### Library Overview  
-    Phone Code library provides access to a developer to add this into their own harmony os project, where user will get option to enter his/her nobile number. The main feature includes a list of phone codes of all the coutries from where usercan choose the coutry he/she belongs to and the Mobile code of that coutry will automatically added to the phonenumber field.
+
+### Library Overview
+  Phone Code library provides access to a developer to add this into their own harmony os project, where user will get option to enter his/her nobile number. The main feature includes a list of phone codes of all the coutries from where usercan choose the coutry he/she belongs to and the Mobile code of that coutry will automatically added to the phonenumber field.
+
 ---
+
 ### Library UI overview 
 
 ![alt-text-1](./Images/ss%201.png) ![alt-text-2](./Images/ss%202.png)
 
 ---
+
 ## Library Feature 1: Button
-### A beautiful coloured clickable button is provided underneath the input field, by clicking which user can submit his data into the server    
+  A beautiful coloured clickable button is provided underneath the input field, by clicking which user can submit his data into the server    
 
 
 
@@ -25,7 +31,7 @@ Button($r("app.string.continue"), { type: ButtonType.Normal, stateEffect: true }
 ![Image](./Images/Button.png)
 
 ## Library Feature 2: Panel
-### Upon clicking the dropdown button a panel will pop up from the buttom of the screen which displays the name, phone code and the cotry flag icon of the coutries. User can select his/her country and the phone code of that coutry will automatically adde up to the required field.
+ Upon clicking the dropdown button a panel will pop up from the buttom of the screen which displays the name, phone code and the cotry flag icon of the coutries. User can select his/her country and the phone code of that coutry will automatically adde up to the required field.
 
 ```    
       Panel(this.show) { // Show code list
@@ -107,6 +113,7 @@ Button($r("app.string.continue"), { type: ButtonType.Normal, stateEffect: true }
 ![Image](./Images/Panel.png)
 
 ---
+
 ### Advance features that can be implemented into the library - 
 * Voice search can be integrated so that user dont have to pick the coutry name everytime from the panel, instead he/she can do a voice search and the data will be filled up
 * Application can seek permission to use the user's current location and the phonecode of that coutry in which the location exists can be filled up automatically.
