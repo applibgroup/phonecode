@@ -126,7 +126,7 @@ Button($r("app.string.continue"), { type: ButtonType.Normal, stateEffect: true }
 * Application can seek permission to use the user's current location and the phonecode of that coutry in which the location exists can be filled up automatically.
 
 ### Open Source License
-Licensed under [Apache-2.0 license](/LICENSE.txt)
+Licensed under [Apache-2.0 license](/LICENSE)
 
 ### Coclusion
 * It is a very useful Library which can save your lots of time by importing it directly into your App
