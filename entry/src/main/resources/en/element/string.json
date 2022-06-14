@@ -1,0 +1,36 @@
+{
+  "string": [
+    {
+      "name": "entry_desc",
+      "value": "description"
+    },
+    {
+      "name": "MainAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "MainAbility_label",
+      "value": "label"
+    },
+    {
+      "name": "country_code",
+      "value": "Country Code"
+    },
+    {
+      "name": "phone_number",
+      "value": "Phone Number"
+    },
+    {
+      "name": "phone_number_label",
+      "value": "Enter your Mobile Number"
+    },
+    {
+      "name": "phone_number_info",
+      "value": "Please confirm your country code and enter your mobile number"
+    },
+    {
+      "name": "continue",
+      "value": "Continue"
+    }
+  ]
+}
